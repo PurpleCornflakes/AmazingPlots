@@ -1,3 +1,6 @@
+#by Chen & Ling 
+#05/13/2017
+
 import numpy as np 
 import matplotlib.pyplot as plt
 import itertools as it
